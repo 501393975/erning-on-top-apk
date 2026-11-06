@@ -1,0 +1,6 @@
+{
+  "name": "Erning on Top",
+  "description": "Multi-tab web viewer up to 100 tabs with 100-link shuffle vault, in-tab auto-click & 5s close, coin rewards, auto user ID, and USDT BEP-20 withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
